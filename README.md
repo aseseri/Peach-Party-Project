@@ -1,5 +1,5 @@
 # Peach Party
-<img width="686" alt="image" src="https://github.com/aseseri/Peach-Party-Project/assets/109722137/6612c857-15fa-4af1-896d-d857ccc6de90">
+<img width="686" alt="image" src="https://github.com/aseseri/Peach-Party-Project/blob/master/Assets/Game%20Picture.jpg">
 
 Welcome to Peach Party, a delightful two-player game that will spark joy and laughter! Get ready for an adventure in a world that resembles a classic board game, where Peach and Yoshi are your cheerful companions on an exciting journey.
 
